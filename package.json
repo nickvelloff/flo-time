@@ -1,0 +1,25 @@
+{
+  "name": "flo-time",
+  "version": "1.0.0",
+  "description": "dunno",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://nickvelloff@github.com/nickvelloff/flo-time.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nickvelloff/flo-time/issues"
+  },
+  "homepage": "https://github.com/nickvelloff/flo-time",
+  "dependencies": {
+    "noflo": "^0.5.11",
+    "noflo-core": "^0.1.11",
+    "noflo-nodejs": "0.0.6",
+    "noflo-twilio": "^0.1.1"
+  }
+}
